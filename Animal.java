@@ -1,4 +1,4 @@
-class Animal {
+ public class Animal {
 
 //     // Creating methid/ behaviour "eat()".
 //     public void eat() {
